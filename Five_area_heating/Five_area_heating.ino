@@ -1,4 +1,5 @@
 
+// This program sets five digital outputs to high
 
 int fetPin1 = 3; //Thumb heating element
 int fetPin2 = 5; //Index and Middle Finger heating element
